@@ -1,0 +1,19 @@
+Source: libdisplaycore-font-lightningbolts
+Section: libraries
+Priority: extra
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: libdisplaycore-font-lightningbolts
+Section: libraries
+Architecture: all
+XBSC-Group: DisplayCore
+XBSC-Subgroup: Fonts
+Depends: libdisplaycore-core
+Provides: LightningBolts.h
+Description: LightningBolts library
+ A font with various lightning bolts instead of characters
+
+
+
