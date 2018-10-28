@@ -12,7 +12,7 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: LightningBolts.h
-Description: LightningBolts library
+Description: LightningBolts
  A font with various lightning bolts instead of characters
 
 
