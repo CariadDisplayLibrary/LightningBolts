@@ -1,2 +1,4 @@
-LightningBolts.h libraries/DisplayCore/LightningBolts
-LightningBolts20.cpp libraries/DisplayCore/LightningBolts
+library.json libraries/DisplayCore/LightningBolts
+library.properties libraries/DisplayCore/LightningBolts
+README.md libraries/DisplayCore/LightningBolts
+src libraries/DisplayCore/LightningBolts
