@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::LightningBolts20 
 
-![LightningBolts20](https://raw.githubusercontent.com/DisplayCore/LightningBolts/master/Preview/LightningBolts20.png)
+![LightningBolts20](https://raw.githubusercontent.com/Cariad/LightningBolts/master/Preview/LightningBolts20.png)
 

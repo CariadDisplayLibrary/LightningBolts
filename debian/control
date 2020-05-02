@@ -1,16 +1,17 @@
-Source: libdisplaycore-font-lightningbolts
+Source: libcariad-font-lightningbolts
 Section: main
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
-Package: libdisplaycore-font-lightningbolts
+Package: libcariad-font-lightningbolts
+Replaces: libdisplaycore-font-lightningbolts
 Section: main
 Architecture: all
-XBSC-Group: DisplayCore
+XBSC-Group: Cariad
 XBSC-Subgroup: Fonts
-Depends: libdisplaycore-core
+Depends: libcariad-core
 Provides: LightningBolts.h
 Description: LightningBolts
  A font with various lightning bolts instead of characters
